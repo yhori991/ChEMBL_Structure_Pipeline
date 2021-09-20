@@ -1,5 +1,5 @@
 from setuptools import setup
-import chembl_structure_pipeline
+import chembl_structure_pipeline.__version__
 
 setup(name='chembl_structure_pipeline',
       version=chembl_structure_pipeline.__version__,
